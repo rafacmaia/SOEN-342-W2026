@@ -1,0 +1,39 @@
+# IDEs
+.idea/          # IntelliJ IDEA
+.vscode/        # VS Code
+*.iml           # IntelliJ module files
+*.swp           # Vim swap files
+.DS_Store       # macOS
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+*.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/         # Maven
+build/          # Gradle
+.gradle/
+out/            # IntelliJ output
+bin/            # Eclipse/general output
+
+# Environment & Secrets
+.env
+*.key
+*.pem
+config/secrets.*
