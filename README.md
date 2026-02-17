@@ -9,7 +9,7 @@ Deployment.
 |----------------|------------|
 | Rafael Maia    | 40022446   |
 | Curtis Moxebo   |    |
-| Benjamin Ollomo |    |
+| Benjamin Ollomo | 40194850   |
 
 ## Project Description
 
