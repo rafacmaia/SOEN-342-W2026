@@ -8,7 +8,7 @@ Deployment.
 | Name           | Student ID |
 |----------------|------------|
 | Rafael Maia    | 40022446   |
-| Curtis Moxebo   |    |
+| Curtis Moxebo   | 40296254 |
 | Benjamin Ollomo | 40194850   |
 
 ## Project Description
